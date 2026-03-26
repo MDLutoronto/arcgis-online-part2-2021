@@ -5,6 +5,9 @@ description: "The following slide deck will guide you through Part 2 of the ArcG
 staff:
     - name: Marcel Fortin
       link: https://library.utoronto.ca/staff/marcel-fortin
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2022-01-12
 permalink: "/"  #! Remove this if not the homepage
 ---
