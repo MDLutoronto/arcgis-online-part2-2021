@@ -17,5 +17,3 @@ permalink: "/"  #! Remove this if not the homepage
 The following slide deck will guide you through Part 2 of the ArcGIS Online workshop. Part 2 covers topics such as choropleth mapping, spatial analytic tools, and linking ArcGIS Pro to ArcGIS Online.
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQrBwaWjex6sRjSHMBT6snzotfWfdpVUdXJz9KOCuTgrAsSi8y9KnTR8iJu6w-dLe7C8kKm-sfR1K4E/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
-
-Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis), [Geocoding](https://mdl.library.utoronto.ca/technique/geocoding) | Tools: [ArcGIS Online](https://mdl.library.utoronto.ca/taxonomy/term/69)
