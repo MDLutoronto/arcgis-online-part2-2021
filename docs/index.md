@@ -18,4 +18,4 @@ The following slide deck will guide you through Part 2 of the ArcGIS Online work
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQrBwaWjex6sRjSHMBT6snzotfWfdpVUdXJz9KOCuTgrAsSi8y9KnTR8iJu6w-dLe7C8kKm-sfR1K4E/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
 
-Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Geocoding](https://mdlutoronto.github.io/tutorials-search/?technique=Geocoding) | Tools: [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
+**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Geocoding](https://mdlutoronto.github.io/tutorials-search/?technique=Geocoding) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online)
